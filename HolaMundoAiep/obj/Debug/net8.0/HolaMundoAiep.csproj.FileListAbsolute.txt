@@ -1,0 +1,14 @@
+/Users/macbook/Documents/AiepProgramas/AiepTrabajos/HolaMundoAiep/bin/Debug/net8.0/HolaMundoAiep
+/Users/macbook/Documents/AiepProgramas/AiepTrabajos/HolaMundoAiep/bin/Debug/net8.0/HolaMundoAiep.deps.json
+/Users/macbook/Documents/AiepProgramas/AiepTrabajos/HolaMundoAiep/bin/Debug/net8.0/HolaMundoAiep.runtimeconfig.json
+/Users/macbook/Documents/AiepProgramas/AiepTrabajos/HolaMundoAiep/bin/Debug/net8.0/HolaMundoAiep.dll
+/Users/macbook/Documents/AiepProgramas/AiepTrabajos/HolaMundoAiep/bin/Debug/net8.0/HolaMundoAiep.pdb
+/Users/macbook/Documents/AiepProgramas/AiepTrabajos/HolaMundoAiep/obj/Debug/net8.0/HolaMundoAiep.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/AiepProgramas/AiepTrabajos/HolaMundoAiep/obj/Debug/net8.0/HolaMundoAiep.AssemblyInfoInputs.cache
+/Users/macbook/Documents/AiepProgramas/AiepTrabajos/HolaMundoAiep/obj/Debug/net8.0/HolaMundoAiep.AssemblyInfo.cs
+/Users/macbook/Documents/AiepProgramas/AiepTrabajos/HolaMundoAiep/obj/Debug/net8.0/HolaMundoAiep.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/AiepProgramas/AiepTrabajos/HolaMundoAiep/obj/Debug/net8.0/HolaMundoAiep.dll
+/Users/macbook/Documents/AiepProgramas/AiepTrabajos/HolaMundoAiep/obj/Debug/net8.0/refint/HolaMundoAiep.dll
+/Users/macbook/Documents/AiepProgramas/AiepTrabajos/HolaMundoAiep/obj/Debug/net8.0/HolaMundoAiep.pdb
+/Users/macbook/Documents/AiepProgramas/AiepTrabajos/HolaMundoAiep/obj/Debug/net8.0/HolaMundoAiep.genruntimeconfig.cache
+/Users/macbook/Documents/AiepProgramas/AiepTrabajos/HolaMundoAiep/obj/Debug/net8.0/ref/HolaMundoAiep.dll
